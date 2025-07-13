@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Nidhi Singh
+
+🎓 Final Year B.Tech CSE Student at IKGPTU  
+💻 Skilled in Python, C++, Pandas, Scikit-learn  
+📊 ML Basics: Linear Regression, Polynomial, Decision Trees, Genetic Algorithms  
+🌱 Projects: Timetable Generator (team), CGPA Calculator, Gold Price Prediction  
+🌿 Internship: Crop & Fertilizer Recommendation System  
+🔗 [LinkedIn](https://www.linkedin.com/in/nidhi-singh-b60865289)
+
 
 <!--
 **nidhi-singh28/nidhi-singh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
